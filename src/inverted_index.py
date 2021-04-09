@@ -12,7 +12,7 @@ def positions(pl):
 class InvertedIndex:
 
     """
-     Positional Inverted Index for satisfying normal boolean queries.
+     Inverted Index for satisfying normal boolean queries.
      This class builds the index by storing the doc_ids of terms.
     """
 
